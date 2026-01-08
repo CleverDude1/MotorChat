@@ -1,6 +1,6 @@
 import express from "express";
 import fetch from "node-fetch";
-import { setIntervalAsync } from "set-interval-async/dynamic";
+import { setIntervalAsync } from "set-interval-async/dynamic/index.js"; // <-- fixed
 
 /* ================= CONFIG ================= */
 
