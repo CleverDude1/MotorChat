@@ -98,3 +98,9 @@ app.listen(process.env.PORT || 3000, () =>
 
 /* ================= POLLING ================= */
 setIntervalAsync(checkMessages, POLL_INTERVAL);
+
+
+
+
+DISCARDED
+
